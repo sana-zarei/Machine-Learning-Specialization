@@ -24,7 +24,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice quiz: Multiple linear regression](#)
     - [Optional Labs](#)
       - [Numpy Vectorization](#)
-      - [Multi Variate Regression]#)
+      - [Multi Variate Regression](#)
       - [Feature Scaling](#)
       - [Feature Engineering](#)
       - [Sklearn Gradient Descent](#)
@@ -54,9 +54,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
   <img src="./ScreenShots/Supervised%20Machine%20Learning%20Regression%20and%20Classification.png" alt="Certificate" width="75%">
 </p>
 
-<br/>
-
-## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+## Course 2 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
 <br/>
 
@@ -85,10 +83,10 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
         - [Deep Q-Learning - Lunar Lander](#)
 
 <p align="center">
-  <img src="./ScreenShots/Supervised%20Machine%20Learning%20Regression%20and%20Classification.png" alt="Certificate" width="75%">
+  <img src="./ScreenShots/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning.png" alt="Certificate" width="75%">
 </p>
 
-## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+## Course 3 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 
 - [Week 1](#)
     - [Practice quiz: Neural networks intuition](#)
@@ -133,14 +131,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
         - [Decision Trees](#)
 
 <p align="center">
-  <img src="./ScreenShots/Supervised%20Machine%20Learning%20Regression%20and%20Classification.png" alt="Certificate" width="75%">
+  <img src="./ScreenShots/Advanced%20Learning%20Algorithms.png" alt="Certificate" width="75%">
 </p>
 <br/>
-
-
-
-
-
-
- 
- 
