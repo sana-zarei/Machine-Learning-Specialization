@@ -19,7 +19,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Model Representation](#)
     - [Cost Function](#)
     - [Gradient Descent](#)
-
 <br/>
 
 - [Week 2](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2) 
@@ -35,7 +34,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
       - [Sklearn Normal Method](#)
     - [Programming Assignment](#)
       - [Linear Regression](#)
-
 <br/>
 
 - [Week 3](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3)
@@ -53,6 +51,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
         - [Overfitting](#)
         - [Regularization](#)
     - [Programming Assignment](#)
+
 
 <p align="center">
   <img src="./ScreenShots/Supervised%20Machine%20Learning%20Regression%20and%20Classification.png" alt="Certificate" width="75%">
