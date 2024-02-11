@@ -139,10 +139,8 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
   <img src="./ScreenShots/Advanced%20Learning%20Algorithms.png" alt="Certificate" width="75%">
 </p>
 
-<br/>
-
 # Notes
-## Part 1 : [Supervised Machine Learning: Regression and Classification](1.%20Supervised%20Machine%20Learning/)
+## Part 1 : [Supervised Machine Learning: Regression and Classification](#)
 ### Week 1 : Introduction to Machine Learning
 #### Overview
 * __Machine Learning__ is "the science of getting computers to act without being explicitly programmed" (Arthur Samuel 1959) and is a subfield of _Artificial Intelligence_.
@@ -257,7 +255,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 <hr />
 
-## Part 2: [Advanced Learning Algorithms](2.%20Advanced%20Learning%20Algorithms/)
+## Part 2: [Advanced Learning Algorithms](#)
 ### Week 1 : Neural Networks
 #### Neural Network Intuition
 * __Neural Networks__ are a type of machine learning algorithm that is inspired by the human brain.
@@ -426,7 +424,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 <hr />
 
-## Part 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](./3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/)
+## Part 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](#)
 ### Week 1 : Welcome!
 #### Clustering
 * __Clustering__ is the process of grouping data points into clusters.
