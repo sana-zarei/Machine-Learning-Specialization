@@ -85,6 +85,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Programming Assignment](#)
         - [Deep Q-Learning - Lunar Lander](#)
 
+<br/>
 <p align="center">
   <img src="./ScreenShots/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning.png" alt="Certificate" width="75%">
 </p>
@@ -133,7 +134,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Practice quiz : Decision Trees Ensembles](#)
         - [Decision Trees](#)
 
+<br/>
 <p align="center">
   <img src="./ScreenShots/Advanced%20Learning%20Algorithms.png" alt="Certificate" width="75%">
 </p>
-<br/>
