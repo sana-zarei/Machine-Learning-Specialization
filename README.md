@@ -1,6 +1,11 @@
 # Machine Learning Specialization Coursera
 
 Contains Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/) by Andrew NG on Coursera 
+
+<p align="center">
+  <img src="./ScreenShots/Machine%20Learning%20Specialization.png" alt="Certificate" width="75%">
+</p>
+
 <hr/>
 
 ## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
