@@ -19,7 +19,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Model Representation](#)
     - [Cost Function](#)
     - [Gradient Descent](#)
-<br/>
 
 - [Week 2](#) 
 
