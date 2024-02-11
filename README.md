@@ -142,8 +142,8 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 <br/>
 
 # Notes
-## Part 1: [Supervised Machine Learning: Regression and Classification](1.%20Supervised%20Machine%20Learning/)
-### <u>Week 1: Introduction to Machine Learning</u>
+## Part 1 : [Supervised Machine Learning: Regression and Classification](1.%20Supervised%20Machine%20Learning/)
+### Week 1 : Introduction to Machine Learning
 #### Overview
 * __Machine Learning__ is "the science of getting computers to act without being explicitly programmed" (Arthur Samuel 1959) and is a subfield of _Artificial Intelligence_.
 * There are many applications of machine learning in daily life, even without us noticing it.
@@ -196,7 +196,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
   * If the learning rate is too small, it will take a long time to converge.
   * If the learning rate is too big, it might not converge, or it might even diverge.
 
-### <u>Week 2: Regression with Multiple Input Variables</u>
+### Week 2 : Regression with Multiple Input Variables
 
 #### Multiple Linear Regression
 * __Vectorization__ is when you perform operations on vectors and matrices instead of individual numbers.
@@ -217,7 +217,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     * Try decreasing the __learning rate__.
 * Choosing the most appropriate features is known as __feature engineering__.
 
-### <u>Week 3: Classification</u>
+### Week 3 : Classification
 
 #### Classification with logistic regression
 * __Binary classification__ is when the output is either 0 or 1.
@@ -258,7 +258,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 <hr />
 
 ## Part 2: [Advanced Learning Algorithms](2.%20Advanced%20Learning%20Algorithms/)
-### Week 1: Neural Networks
+### Week 1 : Neural Networks
 #### Neural Network Intuition
 * __Neural Networks__ are a type of machine learning algorithm that is inspired by the human brain.
 * In the brain, some neurons are connected. The input of one neuron is the output of another neuron.
@@ -278,7 +278,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     * For example, a model that can recognize handwritten digits.
   * Andrew thinks it will take more than a decade to achieve this, and describes possible paths to it.
 
-### <ul>Week 2: Neural Network Training</ul>
+### Week 2 : Neural Network Training
 
 #### Neural Net Training
 * Training a neural net follows these 3 steps:
@@ -323,7 +323,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 #### Optimization
 * __Adam__ is an optimization algorithm that is used to update the parameters of a neural network and stands for __adaptive moment estimation__.
 
-### <ul>Week 3: Advice for Applying Machine Learning</ul>
+### Week 3 : Advice for Applying Machine Learning
 
 #### Advice for Applying Machine Learning
 * We have the tools to build a machine-learning model, but how do we know if it will work? There are a few ways we could improve our model:
@@ -380,7 +380,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
   2. Audit systems against possible harm before deployment.
   3. Develop a mitigation strategy.
 
-### <ul>Week 4: Decision tree model</ul>
+### Week 4 : Decision tree model
 
 #### Decision Trees
 * __Decision trees__ are a type of supervised learning algorithm that can be used for both classification and regression.
@@ -427,7 +427,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 <hr />
 
 ## Part 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](./3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/)
-### Week 1: Welcome!
+### Week 1 : Welcome!
 #### Clustering
 * __Clustering__ is the process of grouping data points into clusters.
 * The __K-means algorithm__ is an algorithm that can be used to cluster data.
@@ -450,7 +450,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
       * variance is estimated by $\sigma^2 = \frac{1}{m}\sum_{i=1}^{m}(x^{(i)}-\mu)^2$.
   * If distributions are not gaussian you can log transform the data to make it more gaussian.
 
-### <ul>Week 2: Recommender Systems</ul>
+### Week 2 : Recommender Systems
 #### Collaborative Filtering
 * __Collaborative filtering__ is a type of recommender system that makes predictions based on the past behavior of similar users.
   * The formula for the cost function used in collaborative filtering is $J(x^{(1)},...,x^{(n_m)},\theta^{(1)},...,\theta^{(n_u)}) = \frac{1}{2}\sum_{(i,j):r(i,j)=1}((\theta^{(j)})^Tx^{(i)}-y^{(i,j)})^2 + \frac{\lambda}{2}\sum_{j=1}^{n_u}\sum_{k=1}^{n}(\theta_k^{(j)})^2 + \frac{\lambda}{2}\sum_{i=1}^{n_m}\sum_{k=1}^{n}(x_k^{(i)})^2$.
@@ -477,7 +477,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     4. Sort the eigenvectors by decreasing eigenvalues and choose the k eigenvectors with the largest eigenvalues to form a matrix U of size n x k.
     5. Use this matrix to transform the data into the k-dimensional space.
 
-### <ul>Week 3: Reinforcement Learning</ul>
+### <ul>Week 3 : Reinforcement Learning</ul>
 #### Reinforcement Learning Introduction
 * __Reinforcement learning__ is a type of machine learning algorithm where the goal is to learn how to maximize some reward.
 * It has been successfully used in:
