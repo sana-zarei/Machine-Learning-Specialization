@@ -8,9 +8,9 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 <hr/>
 
-## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+## Course 1 : [Supervised Machine Learning : Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
-- [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
+- [Week 1](#)
 
     - [Practice quiz: Regression](#)
     - [Practice quiz: Supervised vs unsupervised learning](#)
@@ -21,7 +21,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Gradient Descent](#)
 <br/>
 
-- [Week 2](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2) 
+- [Week 2](#) 
 
     - [Practice quiz: Gradient descent in practice](#)
     - [Practice quiz: Multiple linear regression](#)
@@ -36,7 +36,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
       - [Linear Regression](#)
 <br/>
 
-- [Week 3](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3)
+- [Week 3](#)
 
     - [Practice quiz: Cost function for logistic regression](#)
     - [Practice quiz: Gradient descent for logistic regression](#)
@@ -51,8 +51,8 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
         - [Overfitting](#)
         - [Regularization](#)
     - [Programming Assignment](#)
-
-
+  
+<br/>
 <p align="center">
   <img src="./ScreenShots/Supervised%20Machine%20Learning%20Regression%20and%20Classification.png" alt="Certificate" width="75%">
 </p>
