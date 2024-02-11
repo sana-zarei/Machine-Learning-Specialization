@@ -258,7 +258,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 <hr />
 
 ## Part 2: [Advanced Learning Algorithms](2.%20Advanced%20Learning%20Algorithms/)
-### <ul>Week 1: Neural Networks</ul>
+### Week 1: Neural Networks
 #### Neural Network Intuition
 * __Neural Networks__ are a type of machine learning algorithm that is inspired by the human brain.
 * In the brain, some neurons are connected. The input of one neuron is the output of another neuron.
@@ -427,7 +427,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 <hr />
 
 ## Part 3: [Unsupervised Learning, Recommenders, Reinforcement Learning](./3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/)
-### <ul>Week 1: Welcome!</ul>
+### Week 1: Welcome!
 #### Clustering
 * __Clustering__ is the process of grouping data points into clusters.
 * The __K-means algorithm__ is an algorithm that can be used to cluster data.
