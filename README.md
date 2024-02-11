@@ -5,8 +5,6 @@
 
 Contains Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) by Andrew NG on Coursera 
 
-**Note : If you would like to have a deeper understanding of the concepts by understanding all the math required, have a look at [Mathematics for Machine Learning and Data Science](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera)**
-
 <hr/>
 
 ## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
@@ -22,7 +20,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Gradient Descent](#)
    
 <p align="center">
-  <img src="./ScreenShots/Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms.png" alt="Certificate" width="75%">
+  <img src="./ScreenShots/Supervised%20Machine%20Learning%20Regression%20and%20Classification.png" alt="Certificate" width="75%">
 </p>
 
 <br/>
